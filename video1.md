@@ -1,17 +1,17 @@
-## APA ITU GIT & GITHUB?
-### Vanessa Rebecca W - 16521175
+# APA ITU GIT & GITHUB?
+## Vanessa Rebecca W - 16521175
 
-### GIT
+## GIT
 <p> Git adalah Version Control System, yaitu msistem yang mengelola perubahan dari sebuah dokumen, komputer, website, dan kumpulan informasi lain dengan menggunakan repository lokal </p>
 
 <p>&nbsp;</p>
 
-### GITHUB
+## GITHUB
 <p>Github adalah layanan cloud untuk menyimpan dan mengelola project atau repo dengan menggunakan internet</p>
 
 <p>&nbsp;</p>
 
-### Beberapa istilah dalam github 
+## Beberapa istilah dalam github 
 <ul>
     <li>repo : folder project</li>
     <li>commit : rekaman dari repo</li>
@@ -24,3 +24,5 @@
     <li>push : mengirimkan commit ke repo</li>
     <li>pull : mengambil commit dari repo</li>
 </ul>
+
+
